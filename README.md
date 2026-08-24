@@ -1,5 +1,4 @@
 # distributed-ai-control-plane
-Distributed AI Control Plane
 
 Version: 0.1 — Initial Architecture
 Date: 24 August 2026
